@@ -8,7 +8,7 @@ The challenge comes from precise timing as a cycling cursor highlights plots of 
 
 ## Cursor
 - Cycles over **all interactive elements** (plots with or without towers, and between-round cards).  
-- Cards reveal **every 10s of a round**, meaning players may have to commit early or risk missing better options.  
+- Cards reveal **iteratively each cursor cycle**, meaning players may have to commit early or risk missing better options.  
 - Timing is key: the cursor’s alternation is synced with a **ticking sound** woven into the soundtrack.  
 - Optional **screen flash** for visual timing cues (black & white pixel aesthetic).
 
